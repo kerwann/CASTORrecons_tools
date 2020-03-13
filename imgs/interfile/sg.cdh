@@ -1,13 +1,15 @@
-name of data file := sg.raw
-total number of images := 1
-imagedata byte order :=  LITTLEENDIAN
-number of dimensions  := 3
-matrix size [1] := 128
-matrix size [2] := 128
-matrix size [3] := 60
-number format := float
-number of bytes per pixel := 4
-scaling factor (mm/pixel) [1] := 4.418156
-scaling factor (mm/pixel) [2] := 4.418156
-scaling factor (mm/pixel) [3] := 4.418156
-image duration (sec) := 1
+Data filename: sg.cdf
+Number of events: 983040
+Data mode: 1
+Data type: SPECT
+Start time (s): 0
+Duration (s): 1
+Scanner name: SPECT_GE_D670
+Zoom: 1.000
+Number of bins: 128,128
+Number of projections: 60
+Head rotation direction: CW
+First and last projection angles: 0., 354.0
+Global distance camera surface to COR: 250.0
+Calibration factor: 100000.
+Scatter correction flag: 0
