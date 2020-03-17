@@ -12,4 +12,5 @@ Head rotation direction: CW
 First and last projection angles: 0., 354.0
 Global distance camera surface to COR: 250.0
 Calibration factor: 100000.
+Normalization correction flag: 0
 Scatter correction flag: 0
