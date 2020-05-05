@@ -1,0 +1,16 @@
+Data filename: sg_scatterCorrected.cdf
+Number of events: 983040
+Data mode: 1
+Data type: SPECT
+Start time (s): 0
+Duration (s): 1200
+Scanner name: SPECT_GE_D670
+Zoom: 1.000
+Number of bins: 128,128
+Number of projections: 60
+Head rotation direction: CW
+First and last projection angles: 0., 354.0
+Global distance camera surface to COR: 250.0
+Calibration factor: 100000.
+Normalization correction flag: 0
+Scatter correction flag: 0
