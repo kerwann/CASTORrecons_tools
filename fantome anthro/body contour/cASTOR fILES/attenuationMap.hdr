@@ -1,0 +1,29 @@
+!INTERFILE := 
+!imaging modality := SPECT
+!version of keys := CASToRv2.0
+
+!GENERAL DATA := 
+!data offset in bytes := 0
+!name of data file := attenuationMap.img
+
+!GENERAL IMAGE DATA 
+!type of data := Static
+!total number of images := 128
+imagedata byte order := LITTLEENDIAN
+process status := 
+
+!STATIC STUDY (General) :=
+number of dimensions := 3
+!matrix size [1] := 128
+!matrix size [2] := 128
+!matrix size [3] := 128
+!number format := short float
+!number of bytes per pixel := 4
+scaling factor (mm/pixel) [1] := 4.41816
+scaling factor (mm/pixel) [2] := 4.418156
+scaling factor (mm/pixel) [3] := 4.41816
+image duration (sec) := 1
+image start time (sec) := 0
+data rescale offset := 0
+data rescale slope := 1
+!END OF INTERFILE :=
